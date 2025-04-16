@@ -1,0 +1,5 @@
+github- https://github.com/VanshSaxena04
+
+colab- https://colab.research.google.com/drive/1Lgjet1w8E20Jmb19VSiJW4HjnIxtVQHE
+
+readme- https://github.com/VanshSaxena04/gdgTitanic_survival/blob/main/README.md
